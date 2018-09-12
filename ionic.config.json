@@ -1,0 +1,7 @@
+{
+  "name": "calOwnPlugin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
